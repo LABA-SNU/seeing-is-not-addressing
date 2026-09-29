@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or FactorAtlas, please cite it as follows."
+title: "Seeing Is Not Addressing: Auditing Linguistic Access to Frozen Visual Geometry"
+type: software
+version: 0.1.0
+date-released: 2026-09-15
+authors:
+  - family-names: Jeon
+    given-names: Woosang
+    affiliation: Seoul National University
+  - family-names: Yang
+    given-names: Jiwon
+    affiliation: Seoul National University
+  - family-names: Chung
+    given-names: Soo
+    affiliation: Seoul National University
+  - family-names: Kim
+    given-names: Taehyeong
+    affiliation: Seoul National University
+repository-code: "https://github.com/LABA-SNU/seeing-is-not-addressing"
+preferred-citation:
+  type: generic
+  title: "Seeing Is Not Addressing: Auditing Linguistic Access to Frozen Visual Geometry"
+  authors:
+    - family-names: Jeon
+      given-names: Woosang
+    - family-names: Yang
+      given-names: Jiwon
+    - family-names: Chung
+      given-names: Soo
+    - family-names: Kim
+      given-names: Taehyeong
+  year: 2026

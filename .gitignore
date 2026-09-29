@@ -1,0 +1,10 @@
+# Downloaded FactorAtlas data, feature caches, and audit reports
+data/factoratlas/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local configuration
+.env
