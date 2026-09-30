@@ -1,7 +1,6 @@
 """Canonical FactorAtlas validation and held-out split definitions.
-
-This module deliberately refuses V1 or an unexpected vocabulary.  All split-
-specific alignment experiments import these masks so that calibration,
+This module validates the expected FactorAtlas vocabulary. All split-specific
+alignment experiments import these masks so that calibration,
 validation, and test examples cannot silently drift between methods.
 """
 from pathlib import Path
